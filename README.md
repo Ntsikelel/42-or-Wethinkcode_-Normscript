@@ -4,7 +4,7 @@
 # Technologies used 
 - [x] Bash  <br>
     #### Libraries
-   * - [x] Norminette
+   * - [x] Norminette (with Ruby Gems)
  
 > Run `./NormAll.sh` .</br>
 > Might have to `chmod 755 NormAll.sh` .
